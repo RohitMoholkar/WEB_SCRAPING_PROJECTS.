@@ -13,14 +13,6 @@ Beautiful Soup is a python library designed for pulling data out of HTML and XML
 The selenium library is used to extract data from dynamic web pages, it can execute javascript and dynamically load content, also to scrape data from infinite scroll web pages selenium is very useful.  
 
 ### Project1 Description. 
-- Project Name: **SCRAPING TABULAR DATA FROM BOX OFFICE MOJO WEBSITE FOR TOP MOVIES GROSS MARGIN.**
-- The goal is to gather information about the gross margins of the top 200 movies, including details like rank, name, total gross, and release date.
-- In the project, I have used python libraries BeautifulSoup, requests, and pandas for efficient web scraping.
-- Initially using requests library I get a 200 response, ensure successful communication with the Box Office Mojo server.
-- Then, using BeautifulSoup libaray, extract the response content and store it in the info variable.
-- Utilize the find and find_all functions of BeautifulSoup to navigate the HTML structure and extract the tabular data.
-- Use a python for loop to systematically go through the website's content.
-- Initially, I extract the column names and create a dataframe using them. In the next step, I extract all the data and append it to the dataframe.
-- Gathered detailed information for the top 200 movies to ensure a comprehensive dataset.
-- Transform the dataframe into a CSV file for enhanced usability.
--  The structured dataset is ready for immediate use in data analysis, visualization, unlock valuable insights about movies effortlessly.
+- Project Name: **WEB SCRAPING REAL ESTATE DATA FROM NOBROKER.COM.**
+- Description of the project can be found in the Project1 PDF, located above.
+- I have attached a zip file containing the code because the file size exceeds GitHub's limit of 25MB. To access the code, please download and extract the file, then open it using Jupyter Notebook or Google Colab. Thank you for your understanding. 
