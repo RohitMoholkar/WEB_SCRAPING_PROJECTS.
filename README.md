@@ -1,2 +1,1 @@
-# WEB_SCRAPING_PROJECTS.
-This repository comprises web scraping projects adapted for infinite-scrolling websites, multipage websites, and platforms with dynamic content.
+# I have included Web Scraping from Infinite-scrolling Websites, Multipage Websites, Dynamic Content Projects using Python in this Repository. 
