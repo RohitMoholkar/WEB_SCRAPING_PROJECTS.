@@ -15,4 +15,8 @@ The selenium library is used to extract data from dynamic web pages, it can exec
 ### Project1 Description. 
 - Project Name: **WEB SCRAPING REAL ESTATE DATA FROM NOBROKER.COM.**
 - Description of the project can be found in the Project1 PDF, located above.
-- I have attached a zip file containing the code because the file size exceeds GitHub's limit of 25MB. To access the code, please download and extract the file, then open it using Jupyter Notebook or Google Colab. Thank you for your understanding. 
+- I have attached a zip file containing the code because the file size exceeds GitHub's limit of 25MB. To access the code, please download and extract the file, then open it using Jupyter Notebook or Google Colab. Thank you for your understanding.
+
+### Project2 Description. 
+- Project Name: **WEB SCRAPING MOBILE PHONES DATA FROM FLIPKART'S BIG BILLION DAYS SALE.** 
+- The project's description is available in the Project2 PDF file, accessible above. 
