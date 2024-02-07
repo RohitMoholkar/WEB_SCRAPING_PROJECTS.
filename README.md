@@ -23,4 +23,4 @@ The selenium library is used to extract data from dynamic web pages, it can exec
 
 ### Project3 Description. 
 - Project Name: **WEB SCRAPING CAMPUS FOOTWEAR DATA.**
-- o access the project's description, please open the Project3 PDF file located above. 
+- Access the project's description, please open the Project3 PDF file located above. 
