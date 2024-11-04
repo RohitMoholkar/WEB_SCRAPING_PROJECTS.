@@ -13,7 +13,7 @@ Beautiful Soup is a python library designed for pulling data out of HTML and XML
 The selenium library is used to extract data from dynamic web pages, it can execute javascript and dynamically load content, also to scrape data from infinite scroll web pages selenium is very useful.  
 
 ### Project1 Description. 
-- Project Name: **WEB SCRAPING MOBILE PHONES DATA FROM FLIPKART'S BIG BILLION DAYS SALE.** 
+- Project Name: **DATA SCRAPING OF MOBILE PHONES FROM FLIPKART’S BIG BILLION DAYS SALE.** 
 - The project's description is available in the Project1 PDF file, accessible above. Additionally, the CSV file containing the scraped data is available above for your review.
 
 ### Project2 Description. 
